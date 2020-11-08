@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "laptop line 1", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "mycomputer line 1", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "laptop line 2", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "mycomputer line 2", Toast.LENGTH_SHORT).show()
     }
 }
