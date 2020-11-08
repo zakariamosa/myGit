@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this, "laptop line 1", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "mycomputer line 1", Toast.LENGTH_SHORT).show()
     }
 }
